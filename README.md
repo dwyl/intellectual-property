@@ -86,3 +86,5 @@ http://twit.tv/show/floss-weekly/326
 + WordPress Trademark policy: http://wordpressfoundation.org/trademark-policy/
 + Drupal Trademark Policy: http://drupal.com/trademark
 + Trademark and OSS (_general_): http://www.law.washington.edu/lta/swp/law/trademark.html
+
+![open-source-history-info-graphic](https://cloud.githubusercontent.com/assets/194400/8452599/1d005822-1fe4-11e5-9d71-61d83e36f492.png)
